@@ -3,8 +3,8 @@ Parse and display weather data in 9 individual lines by means of a delimiter and
 
 (though you can display anything you want without recompiling)
 
-![alt text](https://raw.githubusercontent.com/ran-sama/udp_wifi_epaper_partial_refresh/master/epaper_bitmap.jpg)
-![alt text](https://raw.githubusercontent.com/ran-sama/udp_wifi_epaper_partial_refresh/master/epaper_preview.jpg)
+![alt text](https://raw.githubusercontent.com/ran-sama/udp_wifi_epaper_partial_refresh/master/images/epaper_bitmap.jpg)
+![alt text](https://raw.githubusercontent.com/ran-sama/udp_wifi_epaper_partial_refresh/master/images/epaper_preview.jpg)
 
 ## Dependencies
 ```
